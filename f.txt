@@ -1,0 +1,23 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D8A5-E423
+
+ Directory of C:\Users\CHITTU
+
+11-02-2019  21:17    <DIR>          .
+11-02-2019  21:17    <DIR>          ..
+06-03-2018  20:44    <DIR>          .android
+08-02-2019  21:52                46 .gitconfig
+20-07-2017  08:09    <DIR>          Contacts
+08-02-2019  21:01    <DIR>          Desktop
+08-01-2018  21:55    <DIR>          Documents
+08-02-2019  12:13    <DIR>          Downloads
+11-02-2019  21:17                 0 f.txt
+20-07-2017  08:09    <DIR>          Favorites
+12-03-2018  20:01    <DIR>          Links
+20-07-2017  08:09    <DIR>          Music
+09-01-2018  21:24    <DIR>          Pictures
+20-07-2017  08:09    <DIR>          Saved Games
+08-01-2018  21:55    <DIR>          Searches
+20-07-2017  08:09    <DIR>          Videos
+               2 File(s)             46 bytes
+              14 Dir(s)  17,316,089,856 bytes free
