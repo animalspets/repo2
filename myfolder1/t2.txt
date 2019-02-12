@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D8A5-E423
+
+ Directory of C:\Users\CHITTU\myfolder1
+
+12-02-2019  13:44    <DIR>          .
+12-02-2019  13:44    <DIR>          ..
+12-02-2019  13:39               336 t.txt
+12-02-2019  13:39               380 t1.txt
+12-02-2019  13:44                 0 t2.txt
+               3 File(s)            716 bytes
+               2 Dir(s)  17,435,000,832 bytes free
