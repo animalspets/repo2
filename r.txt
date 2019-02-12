@@ -3,22 +3,25 @@
 
  Directory of C:\Users\CHITTU
 
-11-02-2019  21:23    <DIR>          .
-11-02-2019  21:23    <DIR>          ..
+12-02-2019  12:17    <DIR>          .
+12-02-2019  12:17    <DIR>          ..
 06-03-2018  20:44    <DIR>          .android
-08-02-2019  21:52                46 .gitconfig
+12-02-2019  12:17                23 .bash_history
+12-02-2019  12:00                39 .gitconfig
+12-02-2019  11:54    <DIR>          .ssh
 20-07-2017  08:09    <DIR>          Contacts
 08-02-2019  21:01    <DIR>          Desktop
 08-01-2018  21:55    <DIR>          Documents
 08-02-2019  12:13    <DIR>          Downloads
 11-02-2019  21:17               923 f.txt
 20-07-2017  08:09    <DIR>          Favorites
+11-02-2019  21:30             1,014 index.html
 12-03-2018  20:01    <DIR>          Links
 20-07-2017  08:09    <DIR>          Music
 09-01-2018  21:24    <DIR>          Pictures
-11-02-2019  21:23                 0 r.txt
+12-02-2019  12:18                 0 r.txt
 20-07-2017  08:09    <DIR>          Saved Games
 08-01-2018  21:55    <DIR>          Searches
 20-07-2017  08:09    <DIR>          Videos
-               3 File(s)            969 bytes
-              14 Dir(s)  17,184,477,184 bytes free
+               5 File(s)          1,999 bytes
+              15 Dir(s)  16,430,075,904 bytes free
